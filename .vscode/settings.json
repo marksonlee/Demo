@@ -9,5 +9,9 @@
         "/opt/ros/noetic/lib/python3/dist-packages"
     ],
     "cmake.sourceDirectory": "/home/shenz/learn/workscene/src",
-    "cmake.buildDirectory": "/home/shenz/learn/workscene/build"
+    "cmake.buildDirectory": "/home/shenz/learn/workscene/build",
+    "files.associations": {
+        "istream": "cpp",
+        "stop_token": "cpp"
+    }
 }

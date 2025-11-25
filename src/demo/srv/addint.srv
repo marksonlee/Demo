@@ -1,0 +1,6 @@
+# client端请求的数据结构
+int32 num1
+int32 num2
+---
+# server端响应返回的数据类型
+int32 sum
