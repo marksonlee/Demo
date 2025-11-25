@@ -1,0 +1,13 @@
+{
+    "ros.distro": "noetic",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/shenz/learn/workscene/devel/lib/python3/dist-packages"
+
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/shenz/learn/workscene/src",
+    "cmake.buildDirectory": "/home/shenz/learn/workscene/build"
+}
