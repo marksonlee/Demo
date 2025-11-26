@@ -203,6 +203,8 @@ target_link_libraries(client_node
 catkin_install_python(PROGRAMS
   scripts/pub_node.py
   scripts/sub_node.py
+  scripts/server_node.py
+  scripts/client_node.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
